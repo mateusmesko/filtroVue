@@ -1,4 +1,4 @@
-# filtroVue
+# filtro e Mixis Vue
 
 ## Project setup
 ```
